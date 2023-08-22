@@ -1,0 +1,230 @@
+@font-face {
+    font-family: Nevermind;
+    src: url(../assets/nevermind.ttf)
+}
+
+body {
+    background-color: #1f1f1f;
+}
+
+/* Header */
+
+.header_div {
+    text-align: center;
+    margin: auto;
+}
+
+.header_img {
+    width: 12%;
+}
+
+@media only screen and (max-width: 800px) {
+    .header_img {
+        width: 30%;
+    }
+}
+
+/* Map Content Banner */
+
+.banner_div {
+    position: relative;
+    text-align: center;
+}
+
+.banner_img {
+    width: 90%;
+}
+
+.banner_bub {
+    background: rgba(133, 107, 107, 0.7);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 40%;
+    border-radius: 20px;
+}
+
+.banner_txt {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 2em;
+    font-family: 'Nevermind';
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: #CFD8DC;
+}
+
+/* Map Content */
+
+.content_div {
+    background-color: #ECEFF1;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.content_subtitle {
+    text-align: center;
+    font-family: 'Arial';
+    font-style: italic;
+    font-size: 24px;
+    color: black;
+    margin: auto;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.content_download {
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+.content_game {
+    font-family: 'Nevermind';
+    text-align: center;
+    font-style: bold;
+    color: black;
+    font-size: 20px;
+}
+
+.content_header {
+    font-family: 'Nevermind';
+    text-align: center;
+    font-style: underline bold;
+    font-size: 2.5em;
+    color: black;
+    margin: auto;
+}
+
+.content_description {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Arial';
+    font-size: 20px;
+    color: black;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+.content_list {
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Arial';
+    font-size: 20px;
+    color: black;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+.content_forcecenter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content_gallery {
+    width: 1024px;
+    height: 576px;
+    position: relative;
+    overflow: hidden;
+}
+  
+.content_screenshot {
+    width: 1024px;
+    height: 576px;
+    position: absolute;
+    transition: all 0.5s;
+}
+
+@media only screen and (max-width: 1100px) {
+    .content_gallery {
+        width: 640px;
+        height: 360px;
+        position: relative;
+        overflow: hidden;
+    }
+      
+    .content_screenshot {
+        width: 640px;
+        height: 360px;
+        position: absolute;
+        transition: all 0.5s;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .content_gallery {
+        width: 432px;
+        height: 243px;
+        position: relative;
+        overflow: hidden;
+    }
+      
+    .content_screenshot {
+        width: 432px;
+        height: 243px;
+        position: absolute;
+        transition: all 0.5s;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .content_gallery {
+        width: 256px;
+        height: 144px;
+        position: relative;
+        overflow: hidden;
+    }
+      
+    .content_screenshot {
+        width: 256px;
+        height: 144px;
+        position: absolute;
+        transition: all 0.5s;
+    }
+}
+  
+.content_screenshot img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+  
+.content_gallery_btn {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    border: none;
+    border-radius: 50%;
+    z-index: 10px;
+    cursor: pointer;
+    background-color: #fff;
+    font-size: 18px;
+}
+  
+.content_gallery_btn:active {
+    transform: scale(1.1);
+}
+  
+.content_gallery_btn_prev {
+    top: 45%;
+    left: 2%;
+}
+  
+.content_gallery_btn_next {
+    top: 45%;
+    right: 2%;
+}
+
+.content_gallery {
+    margin-left: 10%;
+    margin-right: 10%;
+}

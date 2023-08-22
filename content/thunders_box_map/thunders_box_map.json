@@ -1,0 +1,14 @@
+{
+    "mod_info": {
+        "title": "Thunder's Box Map",
+        "subtitle": "Pretty solid, for a box map.",
+        "description": "This is an ad-lib description, as it seems if there ever was a previous one, it has been lost to time. This also goes to creator name, though it can be implied it's <i>\"Thunder\"</i> or similar. Reach out on the GitHub repository for this to be updated, if this is you.<br><br>Thunder's Box is a two window box map with five Perk-A-Colas available (Quick Revive, Jugger-Nog, Speed Cola, Double Tap Root Beer, Stamin-Up, and a cheeky PhD Flopper troll), with more aggressive Zombies than the base game. It has an edgy sense of humor, but not edgy enough to be a real problem. Definitely a tough one.<br><br>High round records are tracked at a World Record site <a href=\"https://zwr.gg/leaderboards/custom/custom-box-map/thunders-box/\">here</a>.",
+        "game": "Call of Duty: World at War"
+    },
+    "banner": "banner.webp",
+    "screenshots": [
+        "screen_0.webp",
+        "screen_1.webp"
+    ],
+    "download_name": "waw_thunders_box_map/thunders_box_map.zip"
+}

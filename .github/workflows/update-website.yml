@@ -1,0 +1,30 @@
+name: Update Map Pool Site
+on: [push]
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          repository: MotoLegacy/motolegacy.github.io
+          ref: 'main'
+          token: ${{ secrets.WEBSITE_TOKEN }}
+      - name: Setup Git Configuration
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: Perform Build and Push
+        working-directory: ./
+        run: |
+          git clone https://github.com/MotoLegacy/motolegacy.github.io/
+          rm -rf motolegacy.github.io/map-pool
+          mkdir motolegacy.github.io/map-pool
+          python -m pip install htmlmin Pillow bs4 css-html-js-minify colorama
+          chmod +x generate_all.sh
+          ./generate_all.sh
+          cp -R out/* motolegacy.github.io/map-pool
+          cd motolegacy.github.io
+          git add map-pool/*
+          git commit -m "CoD Map Pool: Automatic Update"
+          git push origin main
