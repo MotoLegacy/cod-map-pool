@@ -21,6 +21,7 @@ jobs:
           rm -rf motolegacy.github.io/map-pool
           mkdir motolegacy.github.io/map-pool
           python -m pip install htmlmin Pillow bs4 css-html-js-minify colorama
+          ls
           chmod +x generate_all.sh
           ./generate_all.sh
           cp -R out/* motolegacy.github.io/map-pool
