@@ -27,8 +27,6 @@ jobs:
           ./generate_all.sh
           cp -R out/* ../map-pool
           cd ../
-          ls
-          echo "======"
-          cd map-pool
-          ls
-          
+          git add map-pool/*
+          git commit -m "CoD Map Pool: Automatic Update"
+          git push origin main
