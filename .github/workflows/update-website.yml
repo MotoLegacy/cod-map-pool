@@ -17,15 +17,18 @@ jobs:
       - name: Perform Build and Push
         working-directory: ./
         run: |
-          git clone https://github.com/MotoLegacy/motolegacy.github.io/
-          rm -rf motolegacy.github.io/map-pool
-          mkdir motolegacy.github.io/map-pool
+          git clone https://github.com/MotoLegacy/cod-map-pool/
+          rm -rf map-pool
+          mkdir map-pool
           python -m pip install htmlmin Pillow bs4 css-html-js-minify colorama
           ls
+          cd cod-map-pool
           chmod +x generate_all.sh
           ./generate_all.sh
-          cp -R out/* motolegacy.github.io/map-pool
-          cd motolegacy.github.io
-          git add map-pool/*
-          git commit -m "CoD Map Pool: Automatic Update"
-          git push origin main
+          cp -R out/* ../map-pool
+          cd ../
+          ls
+          echo "======"
+          cd map-pool
+          ls
+          
