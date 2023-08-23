@@ -1,0 +1,15 @@
+{
+    "mod_info": {
+        "title": "Cheese Cube",
+        "subtitle": "Welcome to the Cheese Cube! (By ZK Studios)",
+        "description": "This map was created as a YouTube video series that used video comment ideas and discussions to make this map. It is, in fact, a cube of cheese that you must defend from hungry zombies!<br><br>- Standard Der Riese (but no dogs)<br>- Box Map with 6 buyable doors<br>- Pack-A-Punch is now the Cheese-O-Matic and will change the texture and names of the weapons you place in it<br>- 3 trigger activated song by bigdude33<br>- 2 Custom perks- \"Dr Dagger\" and \"Double Dew\"<br>- Returning Fan-Favorited Cheese Gun w/ sight<br>- BO Perks<br>- Double-Tap 2.0<br>- All perks are 2x the price (added difficulty to the map)<br>- Modified Mystery Box<br>- Re-skinned PaP weapons and zombies<br>- Posters on the wall were created/submitted via YouTube message by video viewers<br><br>Special Thanks to:<br>bamskater33 (BO Perks)<br>ConvictioNDR (Double-Tap 2.0)<br>TheMightyDude (3 trigger song)<br>bigdude33 (\"I love cheese\" song)<br>and<br>my entire YouTube audience for your ideas and support<br><br>Enjoy guys",
+        "game": "Call of Duty: World at War"
+    },
+    "banner": "banner.webp",
+    "screenshots": [
+        "screen_0.webp",
+        "screen_1.webp",
+        "screen_2.webp"
+    ],
+    "download_name": "waw_cheese_cube/cheese_cube.zip"
+}
