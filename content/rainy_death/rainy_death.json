@@ -1,0 +1,16 @@
+{
+    "mod_info": {
+        "title": "Rainy Death",
+        "subtitle": "Fight against the undead in small town in east and search for clues on how to survive this rain season filled with walking corpses.",
+        "description": "Welcome to Rainy Death.<br><br><b>Features:</b><br>-Medium-sized Easter Egg<br>-Custom weapons (No stock weapons)<br> *This includes guns from MW2 up to AW, with few from CS:GO<br>-BO2 Tomahawks (Has mini Easter Egg connected)<br>-9 perks<br>-Napalm Zombie<br>-Buyable Ending<br><br>Beta Testers:<br>-JiffyNoodles<br>-DodgeMe<br>-thezombiekilla6<br>-conn6orsuper117<br>-MechromancerX<br>-SoulTaker<br>-Centric<br><br>Credits:<br>-Ege115<br>-lukkie1998<br>-Ray1235<br>-Rollonmath42<br>-ElTitoPricus<br>-Johndoe<br>-OffTheWall<br>-treminaor<br>-DuaLVII<br>-Redspace200<br>-DidUknowiPwn<br>-Harry Bo21<br>-SirJammy<br>-MAK911<br>-chromastone10<br>-elfenliedtopfan5<br>-CHN<br>-PROxFTW<br>-Slade<br>-MakeCents",
+        "game": "Call of Duty: World at War"
+    },
+    "banner": "banner.webp",
+    "screenshots": [
+        "screen_0.webp",
+        "screen_1.webp",
+        "screen_2.webp",
+        "screen_3.webp"
+    ],
+    "download_name": "waw_rainy_death/rainy_death.zip"
+}

@@ -1,0 +1,14 @@
+{
+    "mod_info": {
+        "title": "Bus Depot",
+        "subtitle": "Based on the Black Ops 2 Zombies map of the same name.",
+        "description": "<b>Introduction:</b><br>I want to start off by telling you all a little about the map.The map is based on the Black Ops 2 Zombies map with the same name. There are however some differences such as features and some extra rooms added by myself. As well as extra rooms you will find that the Tranzit Bus, fog and exploding fire are not a part of this map to make it much more enjoyable for the player. I have tried as best as possible to discard of the nasty features within Tranzit that everyone hated and instead add new, fresh features which have never been seen before. This is my first map that I am releasing but have had other projects in the works to help me build my mapping skills. I greatly appreciate the help and support that has been given with the production of this map and hopefully from this, the map will be enjoyable and fun for you to play. Thanks for reading this map introduction. Be sure to continue reading for more in depth detail and images.<center><img class=\"content_gallery\" src=\"https://callofdutyrepo.com/wp-content/uploads/2018/07/proxy-1-1024x941.png\"></center>",
+        "game": "Call of Duty: World at War"
+    },
+    "banner": "banner.webp",
+    "screenshots": [
+        "screen_0.webp",
+        "screen_1.webp"
+    ],
+    "download_name": "waw_bus_depot/bus_depot.zip"
+}

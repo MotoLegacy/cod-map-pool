@@ -1,0 +1,18 @@
+{
+    "mod_info": {
+        "title": "McDonald's",
+        "subtitle": "Nazi zombies at McDonald’s…",
+        "description": "If you’re looking for a fun, fast paced map, this is the one for you. Verrucket runners with non-stop action. A great map to play co-op. Please give feedback on how the map is.<br><br>Features:</p><ul class=\"content_list\"><li>Kino-Style Teleporters</li><li>Custom Weapons (all upgrade-able)</li><li>Custom Weapon camos</li><li>Tranzit Zombies</li><li>Custom textures</li><li>Buyable powerup</li><li>Buyable ending</li><li>Modified zombie properties</li><li>weather</li></ul><br><br><p class=\"content_description\">Weapon List:<br> AK-47, AK-74u, Black Ops 2 M1911, CZ75, fal, famas, galil, hk21, flamethrower, m60, mp5k, mp7, peacekeeper, ray gun, rpk, spas, stakeout, stoner63, tac45, wunderwaffle, + few customized WaW weapons<br><br>Credits:<br>Green-182/Blink-420(me)<br>Tom_bmx<br>Rorke<br>UGXteam<br><br>Enjoy the map",
+        "game": "Call of Duty: World at War"
+    },
+    "banner": "banner.webp",
+    "screenshots": [
+        "screen_0.webp",
+        "screen_1.webp",
+        "screen_2.webp",
+        "screen_3.webp",
+        "screen_4.webp",
+        "screen_5.webp"
+    ],
+    "download_name": "waw_mcdonalds/mcdonalds.zip"
+}

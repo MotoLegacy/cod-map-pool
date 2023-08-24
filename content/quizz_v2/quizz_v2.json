@@ -1,0 +1,15 @@
+{
+    "mod_info": {
+        "title": "Quizz V2",
+        "subtitle": "Challenge Map by Quizz",
+        "description": "My second map ever, Quizz, was originally abit of a spoof of maps being released at the time, very boxy :P now, Quizz v2 is here and i would say it is a big improvement from the original. i kept the old map layout but changed textures and added a few more areas.<br>The biggest improvement i would say are the weapons. the old Quizz was my first try at custom weapons really and was probably the best part of the map, though they weren’t perfect :P now I was deciding what to do with the weapons in this update, then it came to me! put em all in!! I basically took as many weapons as i had from cod4 and weapons from other cods like blops and mw2. i skipped over WaW abit since those have been seen alot. i also didn’t repeat weapons like i didn’t add cod4, blops and mw2 ak47s.This is the most weapons ive ever added into one map, and im only about a gun or 2 from hitting WaW’s limit<br>============================================================<br>-Music box<br>  -8 songs including Carry on by Avenge Sevenfold<br>-Tons of weapons, probably the most ever seen in one map<br>-Black ops and other cod guns never seen in a TMG map yet<br>-New, resigned Quizz nades and uber-nades<br>-Auto turrets<br>-Winnable ending<br>-new Teddy power drop<br>-some pretty cool Easter Eggs, if i do say so myself :D<br>============================================================<br>To fix the 4011.2MB Error,  Make sure you have the following options ON/OFF:<br>textures Filtering and texture quality set to Automatic.<br>specular maps: ON<br>steam overlay: OFF (Only if using steam)<br>then fully restart your WaW .<br>That should fix the issue. if not pm me! do not comment here.<br><br>And a huge thanks to CFGfactory.com, if it wasn’t for this site we wouldn’t have such awesome weapons :)",
+        "game": "Call of Duty: World at War"
+    },
+    "banner": "banner.webp",
+    "screenshots": [
+        "screen_0.webp",
+        "screen_1.webp",
+        "screen_2.webp"
+    ],
+    "download_name": "waw_quizz_2/quizz_v2.zip"
+}

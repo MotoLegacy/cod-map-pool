@@ -1,0 +1,14 @@
+{
+    "mod_info": {
+        "title": "Zombie Dome",
+        "subtitle": "MW3 Dome, but Zombies.",
+        "description": "Some Features:<br>Bo2, Mw2,Mw3,Bo guns<br>Doubletap 2<br>Custom PAP Camo<br>PAP Attachments<br>9 Perks<br>Kino Style teleporter<br>Expanded map/ Hidden rooms<br>Buyable Ending<br>Snow/ Snowstorm<br>80 Fov<br>Custom Player Models<br>Custom Loadscreen<br><br>Weapon list:<br>(All weapons have fire sounds, reload sounds, muzzle flashes, shell ejects, footsteps, and PAP versions.) :D<br>SkorpionEvo<br>Ak47<br>ACR<br>M200<br>KSG<br>Ballista<br>Hk416<br>Chicom<br>LSAT<br>USP.45 (starting pistol)<br>MP7<br>MG4<br>Striker<br>MSMC<br>Vector<br>M4a1<br>R870MCS<br>MTAR<br>Peacekeeper<br>Deagle<br>P226<br>PDW57<br>DSR50<br>MP9<br>B23R<br>M16a4<br>Python<br>Stg44<br>MG36<br>SMR (full auto) :D<br>ray gun<br>wunderwaffe<br>BO2 crossbow(non explosive)<br><br>Credits:<br>Infinity Ward (original map design)<br>Treminaor (Ugx weapon editor)<br>Tom_Bmx (Lime, zombie counter)<br>ValenciaRicardo1 (beta tester, help with mapping and scripting)<br>Bamskater33 (Bo1/Bo2 perks)<br>ConvictioNDR (doubletap 2 script)<br>YaPhil1 (typewriter intro)<br>Aidan (kino teleporter tut)<br>InFInIX (player model tut)<br>thezombiekilla6 (pap camo tut)<br>HitmanVere (deadshot fix)<br>Everyone at CFGfactory for the weapons<br>UGX Members who helped me<br>And ME for creating this map<br><br>ENJOY THE MAP!!!!",
+        "game": "Call of Duty: World at War"
+    },
+    "banner": "banner.webp",
+    "screenshots": [
+        "screen_0.webp",
+        "screen_1.webp"
+    ],
+    "download_name": "waw_zombie_dome/zombie_dome.zip"
+}

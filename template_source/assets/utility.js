@@ -10,7 +10,7 @@ const getFontSize = (textLength, subtitle) => {
     fontSize = 100
 
     if (subtitle) fontSize = baseSize/2 - textLength
-    else fontSize = baseSize - textLength + 1
+    else fontSize = baseSize - textLength
 
     return `${fontSize}vw`
 }
